@@ -1,0 +1,18 @@
+{
+    "contents" : "#Read data\nd1 <- read.csv(file=\"hw1_data.csv\")\n\n#Select specific rows\nd1[1:2,]\n\nd1[152:153,]\n\n#Value of Ozone in specified row\nd1$Ozone[47]\n\nd1$Ozone\n",
+    "created" : 1446562410692.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4133590198",
+    "id" : "C9D3B250",
+    "lastKnownWriteTime" : 1446562958,
+    "path" : "~/Google Drive/Coursera Data Analysis/HW1_rProgramming.R",
+    "project_path" : "HW1_rProgramming.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

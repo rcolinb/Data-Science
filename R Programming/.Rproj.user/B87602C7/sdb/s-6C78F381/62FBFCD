@@ -1,0 +1,17 @@
+{
+    "contents" : "#Read data\nd1 <- read.csv(file=\"HW1/hw1_data.csv\")\n\n#Select specific rows\nd1[1:2,]\n\nd1[152:153,]\n\n#Value of Ozone in specified row\nd1$Ozone[47]\n\nd1$Ozone\n",
+    "created" : 1446563045565.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "88502687",
+    "id" : "62FBFCD",
+    "lastKnownWriteTime" : 1446563057,
+    "path" : "~/Google Drive/Data Science/R Programming/HW1/HW1_rProgramming.R",
+    "project_path" : "HW1/HW1_rProgramming.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
